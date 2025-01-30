@@ -1,0 +1,33 @@
+
+body {
+    font-family:"Arial", sans-serif;
+    margin :0;
+    padding :0;
+}
+header {
+     background-color:#57aae5 ;
+     color:white ;
+     padding :15px ;
+     text-align:center ;
+     }
+
+nav ul {
+     list-style-type:none ; /* Unordered list style */
+     padding :0; /* Remove default padding */
+}
+
+nav ul li {
+display:inline ; /* Makes list items inline */
+margin-right :20px;/* Adds space between items */
+}
+
+section {
+padding :20px ; /* Adds space around sections*/
+margin-bottom :50px;/* Space between sections*/
+border-bottom : 1px solid #0a70ed ;/* Visual separation of sections*/
+}
+
+footer {
+     text-align:center ; 
+     margin-top:auto;     
+}
